@@ -1,2 +1,2 @@
-# 1robingupta.d2.github.io
-design 2 - spatial templated
+# 1robingupta.github.io
+Repo to host my blogs
