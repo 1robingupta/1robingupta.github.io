@@ -856,7 +856,6 @@
 					-webkit-transition: -webkit-transform 0.2s ease-in-out;
 					-ms-transition: -ms-transform 0.2s ease-in-out;
 					transition: transform 0.2s ease-in-out;
-					border: solid 10px rgba(144, 144, 144, 0.25);
 					max-width: 100%;
 					height: auto;
 					vertical-align: middle;
