@@ -844,7 +844,8 @@
 				overflow: hidden;
 				opacity: 0;
 				position: relative;
-				width: 25%;
+				width: 20%;
+				border: 5px solid red
 			}
 
 				.gallery .content .media a {
