@@ -844,12 +844,11 @@
 				overflow: hidden;
 				opacity: 0;
 				position: relative;
-				width: 20%;
-				border: 5px solid red
+				width: 20%;				
 			}
 
 				.gallery .content .media a {
-					display: block;
+					display: block;					
 				}
 
 				.gallery .content .media img {
@@ -860,6 +859,7 @@
 					max-width: 100%;
 					height: auto;
 					vertical-align: middle;
+					border: 5px solid red
 				}
 
 				.gallery .content .media:hover img {
