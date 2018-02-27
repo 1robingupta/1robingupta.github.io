@@ -844,7 +844,7 @@
 				overflow: hidden;
 				opacity: 0;
 				position: relative;
-				width: 12.5%;				
+				width: 16%;				
 			}
 
 				.gallery .content .media a {
@@ -859,7 +859,7 @@
 					max-width: 100%;
 					height: auto;
 					vertical-align: middle;
-					border: 3px
+					border: 5px #f1f1f1
 				}
 
 				.gallery .content .media:hover img {
