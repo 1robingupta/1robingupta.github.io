@@ -844,7 +844,7 @@
 				overflow: hidden;
 				opacity: 0;
 				position: relative;
-				width: 20%;				
+				width: 12.5%;				
 			}
 
 				.gallery .content .media a {
@@ -859,14 +859,14 @@
 					max-width: 100%;
 					height: auto;
 					vertical-align: middle;
-					border: 5px solid white
+					border: 3px
 				}
 
 				.gallery .content .media:hover img {
-					-moz-transform: scale(1.075);
-					-webkit-transform: scale(1.075);
-					-ms-transform: scale(1.075);
-					transform: scale(1.075);
+					-moz-transform: scale(1.05);
+					-webkit-transform: scale(1.05);
+					-ms-transform: scale(1.05);
+					transform: scale(1.05);
 				}
 
 				@media screen and (max-width: 736px) {
