@@ -1478,7 +1478,7 @@
 		background-repeat: no-repeat;
 		background-position: center;
 		text-align: center;
-		color: #FFF;
+		/*color: #FFF;*/
 	}
 
 		#banner:before {
