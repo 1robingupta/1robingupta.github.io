@@ -308,8 +308,8 @@ figure.w3ls-gallery {
 	-webkit-transition: -webkit-transform 0.2s ease-in-out;
 	-ms-transition: -ms-transform 0.2s ease-in-out;
 	transition: transform 0.2s ease-in-out;
-    margin: 0;
-    padding: 0;
+    /*margin: 0;
+    padding: 0;*/
     position: relative;
     display: block;
     cursor: pointer;
@@ -328,7 +328,7 @@ figure.w3ls-gallery:hover /*figcaption.w3layouts-caption*/ {
     -o-transform: scale(1.05) /*rotate(0)*/;
     -ms-transform: scale(1.05) /*rotate(0)*/;
     transform: scale(1.05) /*rotate(0)*/;
-    top: auto /*0*/;
+    /*top: auto /*0*/;*/
 }
 
 figcaption.w3layouts-caption {
