@@ -314,7 +314,7 @@ figure.w3ls-gallery {
     display: block;
     cursor: pointer;
     overflow: hidden;
-	border: 5px;
+	border: 3px;
 	border-style: solid;
 	border-radius: 10px;
 	border-color: #f1f1f1;
@@ -328,7 +328,7 @@ figure.w3ls-gallery:hover /*figcaption.w3layouts-caption*/ {
     -o-transform: scale(1.05) /*rotate(0)*/;
     -ms-transform: scale(1.05) /*rotate(0)*/;
     transform: scale(1.05) /*rotate(0)*/;
-    top: 0;
+    top: auto /*0*/;
 }
 
 figcaption.w3layouts-caption {
