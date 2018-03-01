@@ -310,6 +310,10 @@ figure.w3ls-gallery {
     display: block;
     cursor: pointer;
     overflow: hidden;
+	border = 5px;
+	border-style = solid;
+	border-radius = 10px;
+	border-color = #f1f1f1;
 }
 figure.w3ls-gallery:hover figcaption.w3layouts-caption {
     -ms-filter: alpha(Opacity=100);
