@@ -288,7 +288,7 @@ p.designation {
 	padding: 5% 0px;
 }
 .w3ls-section h3.center {
-    color: black /*white*/;
+    color: gray /*white*/;
 }
 /*-- portfolio-page --*/
 #port h3.w3l-head,#contact h3.w3l-head {
@@ -311,6 +311,7 @@ figure.w3ls-gallery {
     /*margin: 0;
     padding: 0;*/
     position: relative;
+	vertical-align: middle;
     display: block;
     cursor: pointer;
     overflow: hidden;
